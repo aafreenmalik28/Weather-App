@@ -4,8 +4,9 @@ This Weather App is a simple web application built using HTML, CSS, and JavaScri
 <br>
 <b>Features</b>
 <br>
-Current Weather: The app provides information about the current temperature, weather description, humidity, and wind speed for the specified location.
 <br>
-Search by City: Users can search for weather information by entering the name of the city in the search bar.
+<b>Current Weather</b>: The app provides information about the current temperature, weather description, humidity, and wind speed for the specified location.
 <br>
-Responsive Design: The app is designed to be responsive and work on various devices, including desktops, tablets, and smartphones.
+<b>Search by City</b>: Users can search for weather information by entering the name of the city in the search bar.
+<br>
+<b>Responsive Design</b>: The app is designed to be responsive and work on various devices, including desktops, tablets, and smartphones.
