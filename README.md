@@ -2,6 +2,7 @@
 <br>
 This Weather App is a simple web application built using HTML, CSS, and JavaScript. It allows users to check the current weather conditions for a specific location. The app utilizes the OpenWeatherMap API to fetch real-time weather data
 <br>
+<br>
 <b>Features</b>
 <br>
 <br>
